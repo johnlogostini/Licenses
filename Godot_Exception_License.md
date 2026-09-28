@@ -160,7 +160,7 @@ For licensing questions, additional permissions, or uses not covered by this lic
 
 ### Not Allowed
 
-* Use in non-Godot projects.
+* Use the assets in non-Godot projects.
 * Resell or redistribute the assets.
 * Re-upload the assets to other asset stores or websites.
 * Include the assets in another asset pack.
