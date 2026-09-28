@@ -35,15 +35,15 @@ You may use the assets with other software when reasonably necessary to create, 
 
 This includes, but is not limited to:
 
-01. Blender
-02. Krita
-03. GIMP
-04. Substance Painter
-05. Substance Designer
-06. Substance Sampler
-07. Houdini
-08. EmberGen
-09. LiquiGen
+1. Blender
+2. Krita
+3. GIMP
+4. Substance Painter
+5. Substance Designer
+6. Substance Sampler
+7. Houdini
+8. EmberGen
+9. LiquiGen
 10. IlluGen
 11. GeoGen
 12. Audacity
