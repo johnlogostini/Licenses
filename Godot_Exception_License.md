@@ -6,7 +6,7 @@
 
 This license applies to artwork and other creative assets distributed by JohnLogostini under the **Godot Exception License (GEL)**.
 
-The assets are provided free of charge for use in projects developed with the **Godot Engine**, subject to the terms below.
+The assets are licensed for use in projects developed with the **Godot Engine**, subject to the terms below.
 
 ## 1. Permitted Godot Uses
 
