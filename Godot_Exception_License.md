@@ -165,9 +165,9 @@ For licensing questions, additional permissions, or uses not covered by this lic
 * Resell or redistribute the assets.
 * Re-upload the assets to other asset stores or websites.
 * Include the assets in another asset pack.
-* Bundle the assets with another software product, tool, plugin, library, or similar product.
+* Bundle the assets with other software or tools.
 * Claim the assets as your own.
-* Use the assets to train, fine-tune, test, evaluate, or develop AI, machine learning, neural networks, LLMs, or generative AI systems.
+* Use the assets for AI or machine learning purposes.
 
 ### Required
 
