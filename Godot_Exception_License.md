@@ -155,7 +155,7 @@ For licensing questions, additional permissions, or uses not covered by this lic
 
 * Use the assets in Godot projects, including commercial projects.
 * Modify the assets.
-* Use Blender or other listed software to create content for a Godot project.
+* Use other software to create content for a Godot project.
 * Sell finished Godot projects containing the assets.
 
 ### Not Allowed
