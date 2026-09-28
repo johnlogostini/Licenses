@@ -171,7 +171,3 @@ For licensing questions, additional permissions, or uses not covered by this lic
 ### Required
 
 * Credit **JohnLogostini** in a reasonable and accessible location within the project.
-
-**Required credit:**
-
-> Art assets by JohnLogostini - used under the Godot Exception License (GEL).
