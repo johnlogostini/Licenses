@@ -77,7 +77,7 @@ You may not include the assets in datasets, training data, evaluation data, or o
 
 This restriction applies whether the system is commercial or non-commercial, public or private, open-source or closed-source, local or cloud-based.
 
-The use of ordinary software tools permitted under Section 3 is not prohibited merely because those tools contain unrelated AI-assisted features, provided that the assets are not intentionally used as AI or machine learning training, development, evaluation, or improvement data.
+The use of software permitted under Section 3 is not prohibited solely because that software includes unrelated artificial intelligence or machine learning features, provided that the assets are not intentionally used as training, development, evaluation, testing, or improvement data for an AI or machine learning system.
 
 Any use of the assets for AI or machine learning purposes requires separate written permission from **JohnLogostini**.
 
