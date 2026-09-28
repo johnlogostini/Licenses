@@ -153,8 +153,7 @@ For licensing questions, additional permissions, or uses not covered by this lic
 
 ### Allowed
 
-* Use in Godot projects.
-* Use in commercial Godot games.
+* Use the assets in Godot projects, including commercial projects.
 * Modify the assets.
 * Use Blender or other listed software to create content for a Godot project.
 * Sell finished Godot projects containing the assets.
