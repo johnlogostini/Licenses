@@ -1,6 +1,6 @@
 # Godot Exception License (GEL)
 
-**License Version 1.0**
+**License Version 1.0.1**
 
 **Copyright © 2024–2026 JohnLogostini. All rights reserved.**
 
@@ -47,8 +47,7 @@ This includes, but is not limited to:
 10. IlluGen
 11. GeoGen
 12. Audacity
-13. Open Octave Studio
-14. Other software used for modeling, animation, image editing, audio editing, or content creation
+13. Other software used for modeling, animation, image editing, audio editing, or content creation
 
 This may include creating or modifying models, textures, sprites, animations, audio, effects, scenes, and other content intended for use in Godot.
 
